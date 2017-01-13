@@ -1,4 +1,4 @@
-import { combineReducers, applyMiddleware, createStorage, compose } from 'redux';
+import { combineReducers, applyMiddleware, createStore, compose } from 'redux';
 import thunk from 'redux-thunk';
 
 export const configure = (initialState = {}) => {
