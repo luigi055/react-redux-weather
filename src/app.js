@@ -1,8 +1,5 @@
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
-import { createStore, applyMiddleware, combineReducers, compose } from 'redux';
-import { Provider } from 'react-redux';
-import { Route, Router, hashHistory, IndexRoute } from 'react-router';
 
 import 'font-awesome/scss/font-awesome.scss';
 import './scss/style.scss';

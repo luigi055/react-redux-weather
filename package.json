@@ -7,19 +7,7 @@
     "start": "webpack-dev-server --inline --hot",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/luigi055/react-bootstrap4-boilerplate.git"
-  },
-  "keywords": [
-    "bootstrap4",
-    "scss",
-    "fontawesome",
-    "webpack",
-    "react",
-    "redux"
-  ],
-  "author": "Pedro L. La Rosa D. (Luigi Doganieri)",
+  "author": "Pedro L. La Rosa.",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.21.0",
@@ -53,12 +41,7 @@
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
     "react-redux": "^5.0.2",
-    "react-router": "^3.0.1",
     "redux": "^3.6.0",
     "redux-thunk": "^2.1.0"
-  },
-  "bugs": {
-    "url": "https://github.com/luigi055/react-bootstrap4-boilerplate/issues"
-  },
-  "homepage": "https://github.com/luigi055/react-bootstrap4-boilerplate#readme"
+  }
 }
