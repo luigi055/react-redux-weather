@@ -36949,37 +36949,37 @@
 /* 581 */
 /***/ function(module, exports, __webpack_require__) {
 
-	module.exports = __webpack_require__.p + "674f50d287a8c48dc19ba404d20fe713.eot";
+	module.exports = __webpack_require__.p + "fonts/fontawesome-webfont.eot";
 
 /***/ },
 /* 582 */
 /***/ function(module, exports, __webpack_require__) {
 
-	module.exports = __webpack_require__.p + "674f50d287a8c48dc19ba404d20fe713.eot";
+	module.exports = __webpack_require__.p + "fonts/fontawesome-webfont.eot";
 
 /***/ },
 /* 583 */
 /***/ function(module, exports, __webpack_require__) {
 
-	module.exports = __webpack_require__.p + "af7ae505a9eed503f8b8e6982036873e.woff2";
+	module.exports = __webpack_require__.p + "fonts/fontawesome-webfont.woff2";
 
 /***/ },
 /* 584 */
 /***/ function(module, exports, __webpack_require__) {
 
-	module.exports = __webpack_require__.p + "fee66e712a8a08eef5805a46892932ad.woff";
+	module.exports = __webpack_require__.p + "fonts/fontawesome-webfont.woff";
 
 /***/ },
 /* 585 */
 /***/ function(module, exports, __webpack_require__) {
 
-	module.exports = __webpack_require__.p + "b06871f281fee6b241d60582ae9369b9.ttf";
+	module.exports = __webpack_require__.p + "fonts/fontawesome-webfont.ttf";
 
 /***/ },
 /* 586 */
 /***/ function(module, exports, __webpack_require__) {
 
-	module.exports = __webpack_require__.p + "912ec66d7572ff821749319396470bde.svg";
+	module.exports = __webpack_require__.p + "fonts/fontawesome-webfont.svg";
 
 /***/ },
 /* 587 */
