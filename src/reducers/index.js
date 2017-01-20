@@ -1,15 +1,10 @@
-let nextFeature = 1;
-export const featureReducer = (state = [], action) => {
+import { FETCH_WEATHER } from '../actions';
+
+export function weatherReducer(state = [], action) {
   switch (action.type) {
-    case 'NEW_FEATURE':
-      return [
-        ...state,
-        {
-          id: nextFeature++,
-          feature: action.feature
-        }
-      ];
+    case FETCH_WEATHER:
+      return [action.payload.data, ...state];
     default:
       return state;
   }
-};
+}
